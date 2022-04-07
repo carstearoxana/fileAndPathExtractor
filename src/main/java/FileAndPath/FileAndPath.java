@@ -3,7 +3,7 @@ package FileAndPath;
 //Extrage din el: calea fisierului,
 //        numele folder-ului in care se afla fisierul,
 //        numele fisierului fara extensie si
-//        extensia fisierului fara punct
+//        extensia fisierului fara punctASAsa
 
 public class FileAndPath {
     private String filePath;
